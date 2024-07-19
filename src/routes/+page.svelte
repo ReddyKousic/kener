@@ -12,7 +12,7 @@
 </script>
 
 <div class="mt-32"></div>
-{#if data.site.hero}
+<!-- {#if data.site.hero}
 	<section class="mx-auto mb-8 flex w-full max-w-4xl flex-1 flex-col items-start justify-center">
 		<div class="mx-auto max-w-screen-xl px-4 lg:flex lg:items-center">
 			<div class="blurry-bg mx-auto max-w-3xl text-center">
@@ -32,7 +32,7 @@
 			</div>
 		</div>
 	</section>
-{/if}
+{/if} -->
 {#if hasActiveIncidents}
 	<section
 		class="mx-auto mb-4 flex w-full max-w-[890px] flex-1 flex-col items-start justify-center bg-transparent"
